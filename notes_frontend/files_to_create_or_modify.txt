@@ -1,0 +1,16 @@
+Modified:
+- src/App.js
+- src/App.css
+- src/index.css
+- README.md
+
+Added:
+- src/notes/context/NotesContext.js
+- src/notes/components/Header.jsx
+- src/notes/components/SearchBar.jsx
+- src/notes/components/NotesList.jsx
+- src/notes/components/NotesListItem.jsx
+- src/notes/components/NoteEditorModal.jsx
+- src/notes/components/ErrorBoundary.jsx
+- src/notes/hooks/useDebouncedValue.js
+- src/notes/utils/storage.js
